@@ -1,0 +1,1 @@
+SELECT h.* FROM api.historialsolicitud AS h
